@@ -97,6 +97,3 @@ It aims to analyze employee data across multiple HR dimensions including demogra
 
 ---
 
-## 💬 Feedback & Collaboration
-Feel free to fork this repo, suggest improvements, or connect on LinkedIn.  
-I’m always open to feedback and data-related collaboration!
