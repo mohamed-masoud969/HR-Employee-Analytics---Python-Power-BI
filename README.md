@@ -1,6 +1,6 @@
 # 📊 CRM Employee Dashboard - Power BI Project
 
-![Show Project](https://app.powerbi.com/reportEmbed?reportId=9c8f6ada-ae08-4334-8c4f-b746f6b271d1&autoAuth=true&ctid=3c7a4dad-22f9-460f-9b04-70b4ea89f49f)
+[Show Project](https://app.powerbi.com/reportEmbed?reportId=9c8f6ada-ae08-4334-8c4f-b746f6b271d1&autoAuth=true&ctid=3c7a4dad-22f9-460f-9b04-70b4ea89f49f)
 ![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
 ![License](https://img.shields.io/badge/License-MIT-blue)
 
