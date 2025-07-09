@@ -97,20 +97,6 @@ It aims to analyze employee data across multiple HR dimensions including demogra
 
 ---
 
-## 🙌 Author
-
-**Mohamed Masoud**  
-Junior Data Analyst | Power BI Enthusiast  
-📫 GitHub: [@mohamed-masoud969](https://github.com/mohamed-masoud969)
-
----
-
-## 🪪 License
-
-This project is licensed under the [MIT License](LICENSE).
-
----
-
 ## 💬 Feedback & Collaboration
 Feel free to fork this repo, suggest improvements, or connect on LinkedIn.  
 I’m always open to feedback and data-related collaboration!
