@@ -23,6 +23,7 @@ It aims to analyze employee data across multiple HR dimensions including demogra
 ## 📄 Dashboard Structure (3 Pages)
 
 ### 🔹 Page 1: **Employee Overview**
+! [Overview](https://github.com/mohamed-masoud969/CRM-Employee-Dashboard---Power-BI-Project/blob/main/Screenshot%202025-07-06%20200056.jpg)
 - Total Active Employees
 - Gender, Age Band, Race, Marital Status
 - Department & Business Unit Distribution
